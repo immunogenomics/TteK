@@ -12,4 +12,4 @@ The raw and processed data of this study are available at: GSE202365, GSE202366,
 
 
 ## Contact
-Send us (ajonsson@bwh.harvard.edu or fanzhang@braodinstitute.org) an email if you have any questions about the data or the analyses.
+Send us (ajonsson@bwh.harvard.edu or fanzhang@broadinstitute.org) an email if you have any questions about the data or the analyses.

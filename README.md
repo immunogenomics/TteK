@@ -8,13 +8,12 @@ This repo provides the *Source code* for our TteK paper. The published paper can
 
 
 ## Data availibility
-  The raw and processed data of this study are available at: [GSE202365](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202365), [GSE202366](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi), [GSE202367](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi), and [GSE202375](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
+  The raw and processed data of this study are available at: 
   
-  Accession	Title
 - [GSE202365](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202365)	Bulk RNA-seq of human synovial fluid CD8 T cells sorted by Granzyme B vs Granzyme K expression
-- [GSE202366](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)	Single-cell RNA-seq of CD8 T cells sorted from one sample of seropositive rheumatoid arthritis synovial fluid
-- [GSE202367](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)	Effect of T cell supernatants or cytokines on synovial fibroblasts
-- [GSE202375](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)5	Pooled single-cell RNA-seq data from T cells from human synovial tissue
+- [GSE202366](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202366)	Single-cell RNA-seq of CD8 T cells sorted from one sample of seropositive rheumatoid arthritis synovial fluid
+- [GSE202367](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202367)	Effect of T cell supernatants or cytokines on synovial fibroblasts
+- [GSE202375](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202375)	Pooled single-cell RNA-seq data from T cells from human synovial tissue
 
 
 ## Contact

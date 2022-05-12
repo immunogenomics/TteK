@@ -8,7 +8,7 @@ This repo provides the *Source code* for our TteK paper. The published paper can
 
 
 ## Data availibility
-The raw and processed data of this study are available at: GSE202365, GSE202366, GSE202367, and GSE202375
+The raw and processed data of this study are available at: [GSE202365](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202365), GSE202366, GSE202367, and GSE202375
 
 
 ## Contact
